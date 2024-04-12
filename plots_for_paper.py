@@ -27,7 +27,7 @@ moresteps = True
 # %% Define Plot tasks
 Task = []
 # Task.append(["Dataset", [xmin, xmax, ymin, ymax], [ list of frames ], [figsize]])
-Task.append(["20-10-2023_16:32:15_USA_US101-13_2_T-1", [-10, 50, -50, 10], [1,20,21,24] , [3,4]])
+Task.append(["20-10-2023_16:32:15_USA_US101-13_2_T-1", [-5, 35, -35, 5], [1,20,21,24] , [3,4]])
 Task.append(["20-10-2023_13:37:25_DEU_A99-1_2_T-1", [-30, 100, -5, 15], [1,10,23,24,25] , [3,2]])
 
 output_text = ""
